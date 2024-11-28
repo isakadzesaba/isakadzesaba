@@ -1,4 +1,4 @@
-![Animated Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRod2pqZGU4YXhtZDdsMXU2cjJtOGZvMTlva28ya3h3Y2trb252bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTI9mBoWLef8k/giphy.gif)
+![Animated Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdsOGU3OTFxMnZzdWltOHV2ZmRsZm5yd2JwZ3dvb2cxMnVobTdycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 # Welcome to My GitHub Profile! 👋
 
