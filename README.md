@@ -35,3 +35,6 @@ Welcome to my GitHub profile! I'm a junior developer.
 
 ### 🏆 GitHub Trophy (Animated):
 [![Trophy](https://github-profile-trophy.vercel.app/?username=isakadzesaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="my-animated-background.svg" alt="Animated Background">
+
