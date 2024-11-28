@@ -1,3 +1,5 @@
+![Animated Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRod2pqZGU4YXhtZDdsMXU2cjJtOGZvMTlva28ya3h3Y2trb252bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTI9mBoWLef8k/giphy.gif)
+
 # Welcome to My GitHub Profile! 👋
 
 Welcome to my profile. I'm a junior developer working with various technologies.
@@ -28,8 +30,8 @@ Welcome to my profile. I'm a junior developer working with various technologies.
 
 ---
 
-### 🌌 Background Animation (GIF):
-![Animated Background](https://media.giphy.com/media/l0MYGvynMwLdkzjpm/giphy.gif)
+### 🌌
+![Animated Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo4MjZhd3N6Y2x0czh2ajdlNDNrMTN4emhseGRoeHM0YzV5NjA3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
