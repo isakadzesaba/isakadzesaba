@@ -3,8 +3,11 @@
 Welcome to my GitHub profile! I'm a junior developer.
 
 ### 🚀 About Me:
+- 🔭 I’m currently working on Algorithms and Frontend
+- 🌱 I’m currently learning Javascript, React
 - 🌱 I’m learning JSX
-- 💬 Ask me about Anything
+- Ask me about HTML, CSS, Python, JavaScript, C++, C, C#, NodeJS, React
+- 📫 How to reach me isakadzesaba50@gmail.com
 
 ### 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
