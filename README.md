@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a junior developer.
 - 🌱 I’m currently learning Javascript, React
 - 🌱 I’m learning JSX
 - Ask me about HTML, CSS, Python, JavaScript, C++, C, C#, NodeJS, React
-- 📫 How to reach me isakadzesaba50@gmail.com
+- 📫 How to reach me: isakadzesaba50@gmail.com
 
 ### 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,12 +17,21 @@ Welcome to my GitHub profile! I'm a junior developer.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### 📈 GitHub Stats:
-![isakadzesaba GitHub სტატისტიკა](https://github-readme-stats.vercel.app/api?username=isakadzesaba&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=isakadzesaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isakadzesaba&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=25&bg_color=00000000&card_width=400&hide_border=true)
 
 ### 🔗 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093239328982)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isakadzesaba/)
 
 ### 🧑‍💻 My Projects:
-- [Project 1](https://github.com/isakadzesaba/Weather-App)
+- [Weather App](https://github.com/isakadzesaba/Weather-App)
+
+---
+
+### 🌟 GitHub Stats (Animated):
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isakadzesaba&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=25&bg_color=00000000&card_width=400&hide_border=true&cache_seconds=3600)
+
+---
+
+### 🏆 GitHub Trophy (Animated):
+[![Trophy](https://github-profile-trophy.vercel.app/?username=isakadzesaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
