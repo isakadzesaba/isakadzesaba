@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a junior developer.
 ### 🚀 About Me:
 - 🌱 I’m learning JSX
 - 💬 Ask me about Anything
-- 📫 How to reach me: https://www.instagram.com/isakadzesaba/
-- 😄 Pronouns: He/him.
 
 ### 🛠️ Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
