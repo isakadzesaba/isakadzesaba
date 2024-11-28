@@ -18,10 +18,11 @@ Welcome to my GitHub profile! I'm a junior developer.
 
 ### 📈 GitHub Stats:
 ![isakadzesaba GitHub სტატისტიკა](https://github-readme-stats.vercel.app/api?username=isakadzesaba&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=isakadzesaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔗 Connect with me:
-[![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.facebook.com/profile.php?id=100093239328982)
-[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.instagram.com/isakadzesaba/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093239328982)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isakadzesaba/)
 
 ### 🧑‍💻 My Projects:
 - [Project 1](https://github.com/isakadzesaba/Weather-App)
