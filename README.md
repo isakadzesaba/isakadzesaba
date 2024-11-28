@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a junior developer.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### 📈 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![isakadzesaba GitHub სტატისტიკა](https://github-readme-stats.vercel.app/api?username=isakadzesaba&show_icons=true&theme=radical)
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
