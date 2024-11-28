@@ -7,7 +7,7 @@ Welcome to my profile. I'm a junior developer working with various technologies.
 ### 🚀 About Me:
 - 🔭 I’m currently working on Algorithms and Frontend.
 - 🌱 I’m currently learning JavaScript, React, and JSX.
-- Ask me about HTML, CSS, Python, JavaScript, C++, NodeJS, React.
+- Ask me about HTML, CSS, Python, JavaScript, C++, C#, C, NodeJS, React.
 - 📫 How to reach me: isakadzesaba50@gmail.com
 
 ---
