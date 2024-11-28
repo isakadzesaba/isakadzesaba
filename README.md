@@ -1,4 +1,4 @@
-# Hi there, I'm Saba isakadze. 👋
+# Hello, I'm Saba isakadze. 👋
 
 Welcome to my GitHub profile! I'm a junior developer.
 
