@@ -20,11 +20,8 @@ Welcome to my GitHub profile! I'm a junior developer.
 ![isakadzesaba GitHub სტატისტიკა](https://github-readme-stats.vercel.app/api?username=isakadzesaba&show_icons=true&theme=radical)
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourname)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
+[![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.facebook.com/profile.php?id=100093239328982)
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.instagram.com/isakadzesaba/)
 
 ### 🧑‍💻 My Projects:
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+- [Project 1](https://github.com/isakadzesaba/Weather-App)
