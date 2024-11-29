@@ -1,6 +1,6 @@
-![Animated Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdsOGU3OTFxMnZzdWltOHV2ZmRsZm5yd2JwZ3dvb2cxMnVobTdycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 # Welcome to My GitHub Profile! 👋
+![Animated Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdsOGU3OTFxMnZzdWltOHV2ZmRsZm5yd2JwZ3dvb2cxMnVobTdycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 Welcome to my profile. I'm a junior developer working with various technologies.
 
