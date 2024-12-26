@@ -37,3 +37,4 @@ Welcome to my profile. I'm a junior developer working with various technologies.
 
 ### 🧑‍💻 My Projects:
 - [Weather App](https://github.com/isakadzesaba/Weather-App)
+- [portfolio](https://portfolio-zeta-drab-56.vercel.app/)
